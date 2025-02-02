@@ -1,0 +1,33 @@
+.images
+{
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 12px;
+}
+.images img{
+    border: 1px solid black;
+    width: 300px;
+    height: 40vh;
+    transition: .3s ease;
+
+}
+
+img:hover
+{
+    box-shadow: 3px 5px 6px black;
+}
+button
+{
+    transition: .3s ease;
+}
+.buybtn
+{
+    background: rgb(64, 184, 64);
+    color: white;
+}
+button:hover
+{
+    background: linear-gradient(45deg,rgb(5, 165, 246),rgba(3, 159, 131, 0.528));
+}

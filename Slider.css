@@ -1,0 +1,25 @@
+.box{
+    display: flex;
+    justify-content: center;
+}
+.imgbox
+{
+    width: 85%;
+    height: 50vh;
+    border: 1px solid black;
+}
+.imgbox img{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+
+}
+button{
+    padding: 3px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    /* border: none; */
+    background-color: white;
+    font-size: 2.5em;
+    color: rgb(71, 9, 9);
+}

@@ -1,0 +1,13 @@
+.imgcard
+{
+    width: 20%;
+    height: 30vh;
+    border: 1px solid black;
+    margin-top: 12px;
+    margin-left: 12px;
+    background-color: brown;   
+    box-shadow: 3px 3px 10px black;
+    background: url("../img/logo.jpg");
+    background-position: center;
+    background-size: cover
+}
