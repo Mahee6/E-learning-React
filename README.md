@@ -1,7 +1,7 @@
 # E-learning-React
 An E-Learning React Frontend refers to the user interface of an online learning platform that is built using the React JavaScript library.Interactive User Interface.
 <br>
-<img src="http://linkedin.com/in/mahee-jaiswal-a82197217/details/projects/1373229416/multiple-media-viewer/?profileId=ACoAADaqikIBAWsX8KaXW0fYLLTiYGDps1_damM&treasuryMediaId=1738687502618" alt="img"><img>
+<img src="https://media.licdn.com/dms/image/v2/D562DAQHOzBDpDj4FPw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738687161850?e=1756051200&v=beta&t=jSc5Zk04BKWQ2spzqy0s0i8NUGLM8N07aauSeT3vH1A" alt="img"><img>
 <img src="https://media.licdn.com/dms/image/v2/D562DAQGHtTRt-1AbmQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738687331043?e=1753704000&v=beta&t=kkQ9x8ZXilEZClukA3Cy2GGWc_uZwKBI2GiFfHgJeps" alt="img"><img>
 <img src="https://media.licdn.com/dms/image/v2/D562DAQEpfubQwsNfvQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738687356728?e=1753704000&v=beta&t=EhKkiIs-2msYI54WetlG5vqtUSLntSYoWUQfVVm2bj4" alt="img"><img>
 <img src="https://media.licdn.com/dms/image/v2/D562DAQEGQnRzz8KyeQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738687374297?e=1753704000&v=beta&t=weaiHTRT96dg4a7DFB71p5eiXXEaJJvvWvk0bEFCUkM" alt="img"><img>
